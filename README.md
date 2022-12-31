@@ -1,16 +1,16 @@
-### Hi there 👋
+# About me
 
-<!--
-**sethkaz/sethkaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an electrical engineer by training, but a maker by personality.  I've worked in the medical device industry for 14 years before starting my own [consulting company](https://github.com/SK-Electronics-Consulting/).  
 
-Here are some ideas to get you started:
+# What I'm working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Battery Simulator](https://github.com/SK-Electronics-Consulting/battery-simulator)
+
+# Find me 
+
+* [LinkedIn](https://www.linkedin.com/in/sethkazarians/)
+
+# Hobbies
+* Hiking (Ask me about great hikes in Yosemite!)
+* Ham Radio 
+* Combining the two with [Summits on the Air (SOTA)](https://www.sota.org.uk/).  
